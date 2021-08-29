@@ -36,7 +36,7 @@ The Anki Vector bot(advanced)
 - **[TeamDaisyx](https://github.com/teamdaisyx)**
 
 ## Devs
-- Senu Gamer Boy](https://github.com/SenuGamerBoy) - Owner | Dev
+- [Senu Gamer Boy](https://github.com/SenuGamerBoy) - Owner | Dev
 - [Sadew Jsk](https://Github.com/sadew451) - Dev
 - [DEXTER # FX](https://github.com/weejays) - Dev
 - [Thenula66](https://github.com/thenula63728292) - Dev
