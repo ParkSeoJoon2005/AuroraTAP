@@ -83,16 +83,16 @@ Special Thanks For
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="https://t.me/senuinfinity"),
-        InlineKeyboardButton(text="🖲 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/senuinfinitygroup"),
+        InlineKeyboardButton(text="🧪ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/Hermione_Updates"),
+        InlineKeyboardButton(text="🛠 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/hermione_support_official"),
     ],
     [
-        InlineKeyboardButton(text="📜 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="Coming Soon"),
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/AnimX_Robot?start=help"),
+        InlineKeyboardButton(text="🛒ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="Coming Soon"),
+        InlineKeyboardButton(text="⚙ ʜᴇʟᴘ ", url="http://t.me/AuroraSKBot?start=help"),
     ]
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴀɴᴋɪ ᴠᴇᴄᴛᴏʀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/AnimX_Robot?startgroup=true"
+            text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url="t.me/AuroraSKbot?startgroup=true"
         ),
     ],
 ]
